@@ -56,7 +56,7 @@ app.layout = html.Div([
 
 if __name__ == '__main__':
     #serve(app,host='0.0.0.0',port=63349)
-    app.run_server()
+    app.run_server(debug=False)
 
 
 # In[ ]:
