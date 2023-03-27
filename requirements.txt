@@ -1,6 +1,5 @@
 dash==2.9.1
 pandas
 numpy
-Pillow
-gunicorn
+gunicorn==20.1.0
 
